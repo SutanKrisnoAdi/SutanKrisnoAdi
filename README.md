@@ -19,6 +19,7 @@ Buka direktory aktif, misal: /d/praktikum1
 
 mkdir praktikum1
 cd praktikum1
+![screenshot](screenshot/ss2.png.png)
 
 ## MENJALANKAN GIT INIT
 Dengan perintah
@@ -41,6 +42,7 @@ git add README.md
 Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah
 
 git commit -m "simpan1"
+![screenshot](screenshot/ss3.png)
 
 
 ## MEMBUAT REPOSITORY SERVER
